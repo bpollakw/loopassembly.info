@@ -1,0 +1,487 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 16.0.4, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 width="629.934px" height="319.086px" viewBox="0 0 629.934 319.086" enable-background="new 0 0 629.934 319.086"
+	 xml:space="preserve">
+<g>
+	<text transform="matrix(1 0 0 1 243.6899 75.1714)" fill="#151011" font-family="'MyriadPro-Regular'" font-size="19.9595">+</text>
+	<text transform="matrix(1 0 0 1 397.5894 40.7485)"><tspan x="0" y="0" fill="#070606" font-family="'Helvetica-Oblique'" font-size="8.7702">BsaI</tspan><tspan x="17.549" y="0" fill="#070606" font-family="'Helvetica'" font-size="8.7702">-mediated</tspan></text>
+	<text transform="matrix(1 0 0 1 397.9399 51.7075)" fill="#070606" font-family="'Helvetica'" font-size="8.7702">type IIS assembly /</text>
+	<text transform="matrix(1 0 0 1 397.5894 62.665)" fill="#070606" font-family="'Helvetica'" font-size="8.7702">Overlap assembly</text>
+	<polyline fill="none" stroke="#070606" stroke-width="1.8264" stroke-linecap="round" stroke-linejoin="round" points="
+		469.557,63.803 475.609,69.122 469.58,74.348 	"/>
+	
+		<line fill="none" stroke="#070606" stroke-width="1.8264" stroke-linecap="round" stroke-linejoin="round" x1="474.51" y1="69.236" x2="398.333" y2="69.401"/>
+	<path fill="none" stroke="#070606" stroke-width="1.737" d="M389.563,70.603c0,8.515-7.876,15.413-17.59,15.413h-89.911
+		c-9.714,0-17.589-6.898-17.589-15.413c0-8.512,7.875-15.415,17.589-15.415h89.911C381.687,55.188,389.563,62.09,389.563,70.603z"/>
+	<polyline fill="#C3E2D1" points="306.616,60.354 318.223,60.354 327.826,55.383 318.223,50.41 306.616,50.41 306.616,60.354 	"/>
+	<polygon fill="none" stroke="#070606" stroke-width="1.754" stroke-linecap="square" points="306.616,60.354 318.223,60.354 
+		327.826,55.383 318.223,50.41 306.616,50.41 	"/>
+	<text transform="matrix(1 0 0 1 307.605 74.6016)" fill="#151011" font-family="'Helvetica'" font-size="10.5242">pOdd-1</text>
+	<rect x="365.867" y="49.28" fill="#6199C7" width="12.943" height="12.943"/>
+	
+		<rect x="365.867" y="49.28" fill="none" stroke="#070606" stroke-width="1.754" stroke-linecap="round" stroke-linejoin="round" width="12.943" height="12.943"/>
+	<text transform="matrix(1 0 0 1 369.1909 59.3262)" fill="#070606" font-family="'Helvetica'" font-size="10.5242">X</text>
+	<rect x="271.473" y="49.28" fill="#FEA71D" width="12.945" height="12.943"/>
+	
+		<rect x="271.473" y="49.28" fill="none" stroke="#070606" stroke-width="1.754" stroke-linecap="round" stroke-linejoin="round" width="12.945" height="12.943"/>
+	<text transform="matrix(1 0 0 1 275.0288 59.3262)" fill="#070606" font-family="'Helvetica'" font-size="10.5242">1</text>
+	<rect x="349.968" y="49.28" fill="#F3F917" width="12.942" height="12.943"/>
+	
+		<rect x="349.968" y="49.28" fill="none" stroke="#070606" stroke-width="1.754" stroke-linecap="round" stroke-linejoin="round" width="12.942" height="12.943"/>
+	<text transform="matrix(1 0 0 1 353.5669 59.3262)" fill="#070606" font-family="'Helvetica'" font-size="10.5242">2</text>
+	<path fill="none" stroke="#070606" stroke-width="1.6259" d="M596.598,71.005c0,8.512-6.902,15.412-15.412,15.412h-78.781
+		c-8.514,0-15.414-6.9-15.414-15.412c0-8.515,6.9-15.417,15.414-15.417h78.781C589.695,55.588,596.598,62.49,596.598,71.005z"/>
+	<text transform="matrix(1 0 0 1 525.2109 74.4775)" fill="#151011" font-family="'Helvetica'" font-size="10.5242">pL1-1</text>
+	<rect x="574.689" y="49.155" fill="#6199C7" width="12.943" height="12.944"/>
+	
+		<rect x="574.689" y="49.155" fill="none" stroke="#070606" stroke-width="1.754" stroke-linecap="round" stroke-linejoin="round" width="12.943" height="12.944"/>
+	<text transform="matrix(1 0 0 1 578.0215 59.4253)" fill="#070606" font-family="'MyriadPro-Regular'" font-size="12.004">X</text>
+	<rect x="494.336" y="49.956" fill="#FEA71D" width="12.943" height="12.943"/>
+	
+		<rect x="494.336" y="49.956" fill="none" stroke="#070606" stroke-width="1.754" stroke-linecap="round" stroke-linejoin="round" width="12.943" height="12.943"/>
+	<text transform="matrix(1 0 0 1 497.9004 60.2266)" fill="#070606" font-family="'MyriadPro-Regular'" font-size="12.004">1</text>
+	<rect x="558.791" y="49.275" fill="#F3F917" width="12.943" height="12.942"/>
+	
+		<rect x="558.791" y="49.275" fill="none" stroke="#070606" stroke-width="1.754" stroke-linecap="round" stroke-linejoin="round" width="12.943" height="12.942"/>
+	<text transform="matrix(1 0 0 1 562.3984 59.5723)" fill="#070606" font-family="'MyriadPro-Regular'" font-size="12.004">2</text>
+	
+		<line fill="none" stroke="#070606" stroke-width="1.754" stroke-linecap="round" stroke-linejoin="round" x1="548.451" y1="55.058" x2="548.451" y2="43.538"/>
+	
+		<line fill="none" stroke="#070606" stroke-width="1.754" stroke-linecap="round" stroke-linejoin="round" x1="541.012" y1="43.299" x2="555.412" y2="43.299"/>
+	<polyline fill="none" stroke="#070606" stroke-width="1.754" stroke-linecap="round" stroke-linejoin="round" points="
+		523.465,39.253 527.486,42.805 523.465,46.276 	"/>
+	<polyline fill="none" stroke="#070606" stroke-width="1.754" stroke-linecap="round" stroke-linejoin="round" points="
+		513.27,55.377 513.27,42.659 526.949,42.659 	"/>
+	<polyline fill="#FFFFFF" points="527.262,59.741 537.189,59.741 545.402,55.49 537.189,51.236 527.262,51.236 527.262,59.741 	"/>
+	<polygon fill="none" stroke="#070606" stroke-width="1.754" stroke-linecap="square" points="527.262,59.741 537.189,59.741 
+		545.402,55.49 537.189,51.236 527.262,51.236 	"/>
+	<path fill="none" stroke="#070606" stroke-width="1.754" stroke-linecap="round" stroke-linejoin="round" d="M517.514,55.377h6.242
+		v-1.061c0-2.447-1.408-3.669-3.121-3.669s-3.121,1.222-3.121,3.669V55.377z"/>
+	<path fill="none" stroke="#070606" stroke-width="1.6259" d="M131.74,156.095c0,8.513-6.901,15.416-15.412,15.416H37.546
+		c-8.513,0-15.413-6.903-15.413-15.416c0-8.514,6.9-15.416,15.413-15.416h78.781C124.838,140.679,131.74,147.581,131.74,156.095z"/>
+	<text transform="matrix(1 0 0 1 60.3511 159.5674)" fill="#151011" font-family="'Helvetica'" font-size="10.5242">pL1-1</text>
+	<rect x="108.077" y="134.246" fill="#6199C7" width="12.94" height="12.943"/>
+	
+		<rect x="108.077" y="134.246" fill="none" stroke="#070606" stroke-width="1.754" stroke-linecap="round" stroke-linejoin="round" width="12.94" height="12.943"/>
+	<text transform="matrix(1 0 0 1 111.4058 144.3774)" fill="#070606" font-family="'Helvetica'" font-size="10.5242">X</text>
+	<rect x="27.722" y="134.246" fill="#FEA71D" width="12.943" height="12.943"/>
+	
+		<rect x="27.722" y="134.246" fill="none" stroke="#070606" stroke-width="1.754" stroke-linecap="round" stroke-linejoin="round" width="12.943" height="12.943"/>
+	<text transform="matrix(1 0 0 1 31.2852 144.3774)" fill="#070606" font-family="'Helvetica'" font-size="10.5242">1</text>
+	<rect x="92.176" y="134.246" fill="#F3F917" width="12.944" height="12.943"/>
+	
+		<rect x="92.176" y="134.246" fill="none" stroke="#070606" stroke-width="1.754" stroke-linecap="round" stroke-linejoin="round" width="12.944" height="12.943"/>
+	<text transform="matrix(1 0 0 1 95.7832 144.3774)" fill="#070606" font-family="'Helvetica'" font-size="10.5242">2</text>
+	
+		<line fill="none" stroke="#070606" stroke-width="1.754" stroke-linecap="round" stroke-linejoin="round" x1="81.839" y1="140.148" x2="81.839" y2="128.629"/>
+	
+		<line fill="none" stroke="#070606" stroke-width="1.754" stroke-linecap="round" stroke-linejoin="round" x1="74.397" y1="128.389" x2="88.797" y2="128.389"/>
+	<polyline fill="none" stroke="#070606" stroke-width="1.754" stroke-linecap="round" stroke-linejoin="round" points="
+		56.849,124.344 60.872,127.894 56.849,131.367 	"/>
+	<polyline fill="none" stroke="#070606" stroke-width="1.754" stroke-linecap="round" stroke-linejoin="round" points="
+		46.656,140.47 46.656,127.748 60.334,127.748 	"/>
+	<polyline fill="#FFFFFF" points="60.646,144.832 70.577,144.832 78.788,140.58 70.577,136.328 60.646,136.328 60.646,144.832 	"/>
+	<polygon fill="none" stroke="#070606" stroke-width="1.754" stroke-linecap="square" points="60.646,144.832 70.577,144.832 
+		78.788,140.58 70.577,136.328 60.646,136.328 	"/>
+	<path fill="none" stroke="#070606" stroke-width="1.754" stroke-linecap="round" stroke-linejoin="round" d="M50.9,140.47h6.241
+		v-1.062c0-2.447-1.407-3.67-3.121-3.67c-1.711,0-3.12,1.223-3.12,3.67V140.47z"/>
+	<path fill="none" stroke="#070606" stroke-width="1.6259" d="M262.382,156.095c0,8.513-6.901,15.416-15.413,15.416h-78.78
+		c-8.513,0-15.414-6.903-15.414-15.416c0-8.514,6.901-15.416,15.414-15.416h78.78C255.481,140.679,262.382,147.581,262.382,156.095z
+		"/>
+	<text transform="matrix(1 0 0 1 190.9932 159.5674)" fill="#151011" font-family="'Helvetica'" font-size="10.5242">pL1-2</text>
+	<rect x="238.717" y="134.246" fill="#6199C7" width="12.942" height="12.943"/>
+	
+		<rect x="238.717" y="134.246" fill="none" stroke="#070606" stroke-width="1.754" stroke-linecap="round" stroke-linejoin="round" width="12.942" height="12.943"/>
+	<text transform="matrix(1 0 0 1 242.0474 144.3774)" fill="#070606" font-family="'Helvetica'" font-size="10.5242">X</text>
+	<rect x="158.365" y="134.246" fill="#EFF810" width="12.943" height="12.943"/>
+	
+		<rect x="158.365" y="134.246" fill="none" stroke="#070606" stroke-width="1.754" stroke-linecap="round" stroke-linejoin="round" width="12.943" height="12.943"/>
+	<text transform="matrix(1 0 0 1 161.9272 144.3774)" fill="#070606" font-family="'Helvetica'" font-size="10.5242">2</text>
+	<rect x="222.818" y="134.246" fill="#7FC31E" width="12.945" height="12.943"/>
+	
+		<rect x="222.818" y="134.246" fill="none" stroke="#070606" stroke-width="1.754" stroke-linecap="round" stroke-linejoin="round" width="12.945" height="12.943"/>
+	<text transform="matrix(1 0 0 1 226.4258 144.3774)" fill="#070606" font-family="'Helvetica'" font-size="10.5242">3</text>
+	
+		<line fill="none" stroke="#070606" stroke-width="1.754" stroke-linecap="round" stroke-linejoin="round" x1="212.48" y1="140.148" x2="212.48" y2="128.629"/>
+	
+		<line fill="none" stroke="#070606" stroke-width="1.754" stroke-linecap="round" stroke-linejoin="round" x1="205.039" y1="128.389" x2="219.44" y2="128.389"/>
+	<polyline fill="none" stroke="#070606" stroke-width="1.754" stroke-linecap="round" stroke-linejoin="round" points="
+		187.492,124.344 191.513,127.894 187.492,131.367 	"/>
+	<polyline fill="none" stroke="#070606" stroke-width="1.754" stroke-linecap="round" stroke-linejoin="round" points="
+		177.297,140.47 177.297,127.748 190.977,127.748 	"/>
+	<polyline fill="#CDC9C1" points="191.288,144.832 201.219,144.832 209.43,140.58 201.219,136.328 191.288,136.328 191.288,144.832 
+			"/>
+	<polygon fill="none" stroke="#070606" stroke-width="1.754" stroke-linecap="square" points="191.288,144.832 201.219,144.832 
+		209.43,140.58 201.219,136.328 191.288,136.328 	"/>
+	<path fill="none" stroke="#070606" stroke-width="1.754" stroke-linecap="round" stroke-linejoin="round" d="M181.542,140.47h6.24
+		v-1.062c0-2.447-1.406-3.67-3.12-3.67c-1.712,0-3.12,1.223-3.12,3.67V140.47z"/>
+	<path fill="none" stroke="#070606" stroke-width="1.6259" d="M131.74,210.46c0,8.511-6.901,15.411-15.412,15.411H37.546
+		c-8.513,0-15.413-6.899-15.413-15.411c0-8.515,6.9-15.417,15.413-15.417h78.781C124.838,195.043,131.74,201.945,131.74,210.46z"/>
+	<text transform="matrix(1 0 0 1 60.3511 213.9312)" fill="#151011" font-family="'Helvetica'" font-size="10.5242">pL1-3</text>
+	<rect x="108.077" y="188.61" fill="#6199C7" width="12.94" height="12.942"/>
+	
+		<rect x="108.077" y="188.61" fill="none" stroke="#070606" stroke-width="1.754" stroke-linecap="round" stroke-linejoin="round" width="12.94" height="12.942"/>
+	<text transform="matrix(1 0 0 1 111.4058 198.7417)" fill="#070606" font-family="'Helvetica'" font-size="10.5242">X</text>
+	<rect x="27.722" y="188.61" fill="#7FC31E" width="12.943" height="12.942"/>
+	
+		<rect x="27.722" y="188.61" fill="none" stroke="#070606" stroke-width="1.754" stroke-linecap="round" stroke-linejoin="round" width="12.943" height="12.942"/>
+	<text transform="matrix(1 0 0 1 31.2852 198.7402)" fill="#070606" font-family="'Helvetica'" font-size="10.5242">3</text>
+	<rect x="92.176" y="188.61" fill="#41A62A" width="12.944" height="12.942"/>
+	
+		<rect x="92.176" y="188.61" fill="none" stroke="#070606" stroke-width="1.754" stroke-linecap="round" stroke-linejoin="round" width="12.944" height="12.942"/>
+	<text transform="matrix(1 0 0 1 95.7832 198.7417)" fill="#070606" font-family="'Helvetica'" font-size="10.5242">4</text>
+	
+		<line fill="none" stroke="#070606" stroke-width="1.754" stroke-linecap="round" stroke-linejoin="round" x1="81.839" y1="194.514" x2="81.839" y2="182.993"/>
+	
+		<line fill="none" stroke="#070606" stroke-width="1.754" stroke-linecap="round" stroke-linejoin="round" x1="74.397" y1="182.753" x2="88.797" y2="182.753"/>
+	<polyline fill="none" stroke="#070606" stroke-width="1.754" stroke-linecap="round" stroke-linejoin="round" points="
+		56.849,178.707 60.872,182.258 56.849,185.73 	"/>
+	<polyline fill="none" stroke="#070606" stroke-width="1.754" stroke-linecap="round" stroke-linejoin="round" points="
+		46.656,194.832 46.656,182.111 60.334,182.111 	"/>
+	<polyline fill="#534B4A" points="60.646,199.195 70.577,199.195 78.788,194.944 70.577,190.69 60.646,190.69 60.646,199.195 	"/>
+	<polygon fill="none" stroke="#070606" stroke-width="1.754" stroke-linecap="square" points="60.646,199.195 70.577,199.195 
+		78.788,194.944 70.577,190.69 60.646,190.69 	"/>
+	<path fill="none" stroke="#070606" stroke-width="1.754" stroke-linecap="round" stroke-linejoin="round" d="M50.9,194.832h6.241
+		v-1.062c0-2.446-1.407-3.669-3.121-3.669c-1.711,0-3.12,1.223-3.12,3.669V194.832z"/>
+	<path fill="none" stroke="#070606" stroke-width="1.6259" d="M262.382,210.46c0,8.511-6.901,15.411-15.413,15.411h-78.78
+		c-8.513,0-15.414-6.899-15.414-15.411c0-8.515,6.901-15.417,15.414-15.417h78.78C255.481,195.043,262.382,201.945,262.382,210.46z"
+		/>
+	<text transform="matrix(1 0 0 1 190.9932 213.9312)" fill="#151011" font-family="'Helvetica'" font-size="10.5242">pL1-4</text>
+	<rect x="238.717" y="188.61" fill="#6199C7" width="12.942" height="12.942"/>
+	
+		<rect x="238.717" y="188.61" fill="none" stroke="#070606" stroke-width="1.754" stroke-linecap="round" stroke-linejoin="round" width="12.942" height="12.942"/>
+	<text transform="matrix(1 0 0 1 242.0474 198.3037)" fill="#070606" font-family="'Helvetica'" font-size="10.5242">X</text>
+	<rect x="158.365" y="188.61" fill="#41A62A" width="12.943" height="12.942"/>
+	
+		<rect x="158.365" y="188.61" fill="none" stroke="#070606" stroke-width="1.754" stroke-linecap="round" stroke-linejoin="round" width="12.943" height="12.942"/>
+	<text transform="matrix(1 0 0 1 161.9272 198.3022)" fill="#070606" font-family="'Helvetica'" font-size="10.5242">4</text>
+	<rect x="222.818" y="188.61" fill="#389C80" width="12.945" height="12.942"/>
+	
+		<rect x="222.818" y="188.61" fill="none" stroke="#070606" stroke-width="1.754" stroke-linecap="round" stroke-linejoin="round" width="12.945" height="12.942"/>
+	<text transform="matrix(1 0 0 1 226.4258 198.3037)" fill="#070606" font-family="'Helvetica'" font-size="10.5242">5</text>
+	
+		<line fill="none" stroke="#070606" stroke-width="1.754" stroke-linecap="round" stroke-linejoin="round" x1="212.48" y1="194.514" x2="212.48" y2="182.993"/>
+	
+		<line fill="none" stroke="#070606" stroke-width="1.754" stroke-linecap="round" stroke-linejoin="round" x1="205.039" y1="182.753" x2="219.44" y2="182.753"/>
+	<polyline fill="none" stroke="#070606" stroke-width="1.754" stroke-linecap="round" stroke-linejoin="round" points="
+		187.492,178.707 191.513,182.258 187.492,185.73 	"/>
+	<polyline fill="none" stroke="#070606" stroke-width="1.754" stroke-linecap="round" stroke-linejoin="round" points="
+		177.297,194.832 177.297,182.111 190.977,182.111 	"/>
+	<polyline fill="#100D0E" points="191.288,199.195 201.219,199.195 209.43,194.944 201.219,190.69 191.288,190.69 191.288,199.195 	
+		"/>
+	<polygon fill="none" stroke="#070606" stroke-width="1.754" stroke-linecap="square" points="191.288,199.195 201.219,199.195 
+		209.43,194.944 201.219,190.69 191.288,190.69 	"/>
+	<path fill="none" stroke="#070606" stroke-width="1.754" stroke-linecap="round" stroke-linejoin="round" d="M181.542,194.832h6.24
+		v-1.062c0-2.446-1.406-3.669-3.12-3.669c-1.712,0-3.12,1.223-3.12,3.669V194.832z"/>
+	<path fill="none" stroke="#070606" stroke-width="1.5246" d="M190.333,268.384c0,8.513-6.067,15.413-13.552,15.413H107.52
+		c-7.482,0-13.552-6.899-13.552-15.413s6.069-15.413,13.552-15.413h69.262C184.266,252.971,190.333,259.871,190.333,268.384z"/>
+	<text transform="matrix(1 0 0 1 116.3926 273.6104)" fill="#151011" font-family="'Helvetica'" font-size="10.5242">pUNSDest</text>
+	<text transform="matrix(1 0 0 1 90.1284 297.729)" fill="#070606" font-family="'Helvetica'" font-size="12.2782">Destination plasmid</text>
+	<text transform="matrix(1 0 0 1 121.6797 312.4614)" fill="#070606" font-family="'Helvetica'" font-size="12.2782">(SpecR)</text>
+	<rect x="167.625" y="246.536" fill="#6199C7" width="12.943" height="12.942"/>
+	
+		<rect x="167.625" y="246.536" fill="none" stroke="#070606" stroke-width="1.754" stroke-linecap="round" stroke-linejoin="round" width="12.943" height="12.942"/>
+	<text transform="matrix(1 0 0 1 170.9585 256.8037)" fill="#070606" font-family="'Helvetica'" font-size="10.5242">X</text>
+	<rect x="101.315" y="246.536" fill="#FEA71D" width="12.943" height="12.942"/>
+	
+		<rect x="101.315" y="246.536" fill="none" stroke="#070606" stroke-width="1.754" stroke-linecap="round" stroke-linejoin="round" width="12.943" height="12.942"/>
+	<text transform="matrix(1 0 0 1 104.877 256.8071)" fill="#070606" font-family="'Helvetica'" font-size="10.5242">1</text>
+	
+		<line fill="none" stroke="#070606" stroke-width="1.754" stroke-linecap="round" stroke-linejoin="round" x1="162.452" y1="252.44" x2="162.452" y2="240.919"/>
+	
+		<line fill="none" stroke="#070606" stroke-width="1.754" stroke-linecap="round" stroke-linejoin="round" x1="155.008" y1="240.678" x2="169.41" y2="240.678"/>
+	<polyline fill="none" stroke="#070606" stroke-width="1.754" stroke-linecap="round" stroke-linejoin="round" points="
+		130.442,236.633 134.464,240.185 130.442,243.657 	"/>
+	<polyline fill="none" stroke="#070606" stroke-width="1.754" stroke-linecap="round" stroke-linejoin="round" points="
+		120.248,252.758 120.248,240.038 133.927,240.038 	"/>
+	<polyline fill="#C5090A" points="134.24,258.617 147.662,258.617 158.762,252.871 147.662,247.121 134.24,247.121 134.24,258.617 	
+		"/>
+	<polygon fill="none" stroke="#070606" stroke-width="1.754" stroke-linecap="square" points="134.24,258.617 147.662,258.617 
+		158.762,252.871 147.662,247.121 134.24,247.121 	"/>
+	<path fill="none" stroke="#070606" stroke-width="1.754" stroke-linecap="round" stroke-linejoin="round" d="M124.493,252.758
+		h6.242v-1.062c0-2.446-1.409-3.668-3.122-3.668c-1.712,0-3.12,1.223-3.12,3.668V252.758z"/>
+	<polyline fill="none" stroke="#070606" stroke-width="1.7873" stroke-linecap="round" stroke-linejoin="round" points="
+		317.367,192.563 323.291,197.767 317.391,202.881 	"/>
+	
+		<line fill="none" stroke="#070606" stroke-width="1.7873" stroke-linecap="round" stroke-linejoin="round" x1="321.92" y1="197.88" x2="274.493" y2="197.983"/>
+	<text transform="matrix(1 0 0 1 274.4966 180.2715)" fill="#070606" font-family="'Helvetica'" font-size="8.7702">PCR /</text>
+	<text transform="matrix(1 0 0 1 274.8506 190.7954)" fill="#070606" font-family="'Helvetica'" font-size="8.7702">Digestion</text>
+	<text transform="matrix(1 0 0 1 274.4966 210.0405)" fill="#070606" font-family="'Helvetica'" font-size="8.7702">On-column</text>
+	<text transform="matrix(1 0 0 1 274.8506 220.5654)" fill="#070606" font-family="'Helvetica'" font-size="8.7702">purification</text>
+	<line fill="none" stroke="#070606" stroke-width="1.754" x1="331.893" y1="138.993" x2="384.514" y2="138.993"/>
+	<rect x="319.061" y="132.277" fill="#FEA71D" width="12.942" height="12.943"/>
+	
+		<rect x="319.061" y="132.277" fill="none" stroke="#070606" stroke-width="1.754" stroke-linecap="round" stroke-linejoin="round" width="12.942" height="12.943"/>
+	<text transform="matrix(1 0 0 1 322.6216 142.0801)" fill="#070606" font-family="'Helvetica'" font-size="10.5242">1</text>
+	<rect x="383.512" y="132.277" fill="#F3F917" width="12.942" height="12.943"/>
+	
+		<rect x="383.512" y="132.277" fill="none" stroke="#070606" stroke-width="1.754" stroke-linecap="round" stroke-linejoin="round" width="12.942" height="12.943"/>
+	<text transform="matrix(1 0 0 1 387.1196 142.0801)" fill="#070606" font-family="'Helvetica'" font-size="10.5242">2</text>
+	
+		<line fill="none" stroke="#070606" stroke-width="1.754" stroke-linecap="round" stroke-linejoin="round" x1="373.174" y1="138.351" x2="373.174" y2="126.83"/>
+	
+		<line fill="none" stroke="#070606" stroke-width="1.754" stroke-linecap="round" stroke-linejoin="round" x1="365.733" y1="126.59" x2="380.134" y2="126.59"/>
+	<polyline fill="none" stroke="#070606" stroke-width="1.754" stroke-linecap="round" stroke-linejoin="round" points="
+		348.188,122.545 352.209,126.095 348.188,129.567 	"/>
+	<polyline fill="none" stroke="#070606" stroke-width="1.754" stroke-linecap="round" stroke-linejoin="round" points="
+		337.992,138.669 337.992,125.949 351.67,125.949 	"/>
+	<polyline fill="#FFFFFF" points="351.984,143.032 361.913,143.032 370.123,138.78 361.913,134.528 351.984,134.528 
+		351.984,143.032 	"/>
+	<polygon fill="none" stroke="#070606" stroke-width="1.754" stroke-linecap="square" points="351.984,143.032 361.913,143.032 
+		370.123,138.78 361.913,134.528 351.984,134.528 	"/>
+	<path fill="none" stroke="#070606" stroke-width="1.754" stroke-linecap="round" stroke-linejoin="round" d="M342.237,138.669
+		h6.242v-1.062c0-2.447-1.408-3.669-3.121-3.669s-3.121,1.222-3.121,3.669V138.669z"/>
+	<line fill="none" stroke="#070606" stroke-width="1.754" x1="395.653" y1="164.125" x2="448.273" y2="164.125"/>
+	<rect x="383.699" y="157.72" fill="#EFF810" width="12.942" height="12.943"/>
+	
+		<rect x="383.699" y="157.72" fill="none" stroke="#070606" stroke-width="1.754" stroke-linecap="round" stroke-linejoin="round" width="12.942" height="12.943"/>
+	<text transform="matrix(1 0 0 1 387.27 167.9624)" fill="#070606" font-family="'Helvetica'" font-size="10.5242">2</text>
+	<rect x="448.148" y="157.72" fill="#7FC31E" width="12.945" height="12.943"/>
+	
+		<rect x="448.148" y="157.72" fill="none" stroke="#070606" stroke-width="1.754" stroke-linecap="round" stroke-linejoin="round" width="12.945" height="12.943"/>
+	<text transform="matrix(1 0 0 1 451.7656 167.9624)" fill="#070606" font-family="'Helvetica'" font-size="10.5242">3</text>
+	
+		<line fill="none" stroke="#070606" stroke-width="1.754" stroke-linecap="round" stroke-linejoin="round" x1="437.812" y1="163.505" x2="437.812" y2="151.984"/>
+	
+		<line fill="none" stroke="#070606" stroke-width="1.754" stroke-linecap="round" stroke-linejoin="round" x1="430.371" y1="151.744" x2="444.771" y2="151.744"/>
+	<polyline fill="none" stroke="#070606" stroke-width="1.754" stroke-linecap="round" stroke-linejoin="round" points="
+		412.824,147.699 416.846,151.25 412.824,154.721 	"/>
+	<polyline fill="none" stroke="#070606" stroke-width="1.754" stroke-linecap="round" stroke-linejoin="round" points="
+		402.633,163.823 402.633,151.104 416.309,151.104 	"/>
+	<polyline fill="#CDC9C1" points="416.621,168.186 426.551,168.186 434.762,163.935 426.551,159.682 416.621,159.682 
+		416.621,168.186 	"/>
+	<polygon fill="none" stroke="#070606" stroke-width="1.754" stroke-linecap="square" points="416.621,168.186 426.551,168.186 
+		434.762,163.935 426.551,159.682 416.621,159.682 	"/>
+	<path fill="none" stroke="#070606" stroke-width="1.754" stroke-linecap="round" stroke-linejoin="round" d="M406.877,163.823h6.24
+		v-1.062c0-2.446-1.408-3.669-3.121-3.669s-3.119,1.223-3.119,3.669V163.823z"/>
+	<line fill="none" stroke="#070606" stroke-width="1.754" x1="461.098" y1="189.268" x2="513.717" y2="189.268"/>
+	<rect x="448.336" y="182.878" fill="#7FC31E" width="12.939" height="12.943"/>
+	
+		<rect x="448.336" y="182.878" fill="none" stroke="#070606" stroke-width="1.754" stroke-linecap="round" stroke-linejoin="round" width="12.939" height="12.943"/>
+	<text transform="matrix(1 0 0 1 451.9121 192.7915)" fill="#070606" font-family="'Helvetica'" font-size="10.5242">3</text>
+	<rect x="512.785" y="182.878" fill="#41A62A" width="12.943" height="12.943"/>
+	
+		<rect x="512.785" y="182.878" fill="none" stroke="#070606" stroke-width="1.754" stroke-linecap="round" stroke-linejoin="round" width="12.943" height="12.943"/>
+	<text transform="matrix(1 0 0 1 516.4102 192.7915)" fill="#070606" font-family="'Helvetica'" font-size="10.5242">4</text>
+	
+		<line fill="none" stroke="#070606" stroke-width="1.754" stroke-linecap="round" stroke-linejoin="round" x1="502.449" y1="188.661" x2="502.449" y2="177.14"/>
+	
+		<line fill="none" stroke="#070606" stroke-width="1.754" stroke-linecap="round" stroke-linejoin="round" x1="495.008" y1="176.899" x2="509.408" y2="176.899"/>
+	<polyline fill="none" stroke="#070606" stroke-width="1.754" stroke-linecap="round" stroke-linejoin="round" points="
+		477.463,172.855 481.484,176.407 477.463,179.879 	"/>
+	<polyline fill="none" stroke="#070606" stroke-width="1.754" stroke-linecap="round" stroke-linejoin="round" points="
+		467.268,188.979 467.268,176.259 480.945,176.259 	"/>
+	<polyline fill="#534B4A" points="481.258,193.344 491.188,193.344 499.398,189.093 491.188,184.839 481.258,184.839 
+		481.258,193.344 	"/>
+	<polygon fill="none" stroke="#070606" stroke-width="1.754" stroke-linecap="square" points="481.258,193.344 491.188,193.344 
+		499.398,189.093 491.188,184.839 481.258,184.839 	"/>
+	<path fill="none" stroke="#070606" stroke-width="1.754" stroke-linecap="round" stroke-linejoin="round" d="M471.512,188.979
+		h6.242v-1.061c0-2.447-1.408-3.669-3.121-3.669c-1.715,0-3.121,1.222-3.121,3.669V188.979z"/>
+	<line fill="none" stroke="#070606" stroke-width="1.754" x1="524.836" y1="214.396" x2="605.156" y2="214.396"/>
+	<rect x="593.32" y="207.907" fill="#6199C7" width="12.941" height="12.943"/>
+	
+		<rect x="593.32" y="207.907" fill="none" stroke="#070606" stroke-width="1.754" stroke-linecap="round" stroke-linejoin="round" width="12.941" height="12.943"/>
+	<text transform="matrix(1 0 0 1 596.6602 217.8198)" fill="#070606" font-family="'Helvetica'" font-size="10.5242">X</text>
+	<rect x="512.971" y="207.907" fill="#41A62A" width="12.941" height="12.943"/>
+	
+		<rect x="512.971" y="207.907" fill="none" stroke="#070606" stroke-width="1.754" stroke-linecap="round" stroke-linejoin="round" width="12.941" height="12.943"/>
+	<text transform="matrix(1 0 0 1 516.5352 217.8184)" fill="#070606" font-family="'Helvetica'" font-size="10.5242">4</text>
+	<rect x="577.422" y="207.907" fill="#389C80" width="12.941" height="12.943"/>
+	
+		<rect x="577.422" y="207.907" fill="none" stroke="#070606" stroke-width="1.754" stroke-linecap="round" stroke-linejoin="round" width="12.941" height="12.943"/>
+	<text transform="matrix(1 0 0 1 581.0332 217.8198)" fill="#070606" font-family="'Helvetica'" font-size="10.5242">5</text>
+	
+		<line fill="none" stroke="#070606" stroke-width="1.754" stroke-linecap="round" stroke-linejoin="round" x1="567.084" y1="213.812" x2="567.084" y2="202.292"/>
+	
+		<line fill="none" stroke="#070606" stroke-width="1.754" stroke-linecap="round" stroke-linejoin="round" x1="559.643" y1="202.053" x2="574.043" y2="202.053"/>
+	<polyline fill="none" stroke="#070606" stroke-width="1.754" stroke-linecap="round" stroke-linejoin="round" points="
+		542.098,198.006 546.117,201.558 542.098,205.03 	"/>
+	<polyline fill="none" stroke="#070606" stroke-width="1.754" stroke-linecap="round" stroke-linejoin="round" points="
+		531.902,214.132 531.902,201.412 545.58,201.412 	"/>
+	<polyline fill="#100D0E" points="545.893,218.493 555.822,218.493 564.033,214.242 555.822,209.99 545.893,209.99 545.893,218.493 
+			"/>
+	<polygon fill="none" stroke="#070606" stroke-width="1.754" stroke-linecap="square" points="545.893,218.493 555.822,218.493 
+		564.033,214.242 555.822,209.99 545.893,209.99 	"/>
+	<path fill="none" stroke="#070606" stroke-width="1.754" stroke-linecap="round" stroke-linejoin="round" d="M536.146,214.132
+		h6.242v-1.062c0-2.446-1.408-3.669-3.121-3.669s-3.121,1.223-3.121,3.669V214.132z"/>
+	<path fill="none" stroke="#070606" stroke-width="1.5246" d="M499.203,300.028c0,8.513-6.068,15.412-13.553,15.412h-69.258
+		c-7.482,0-13.551-6.898-13.551-15.412c0-8.513,6.068-15.417,13.551-15.417h69.258C493.135,284.612,499.203,291.516,499.203,300.028
+		z"/>
+	<text transform="matrix(1 0 0 1 425.2734 303.501)" fill="#151011" font-family="'Helvetica'" font-size="10.5242">pUNSDest</text>
+	<rect x="476.498" y="278.178" fill="#6199C7" width="12.939" height="12.943"/>
+	
+		<rect x="476.498" y="278.178" fill="none" stroke="#070606" stroke-width="1.754" stroke-linecap="round" stroke-linejoin="round" width="12.939" height="12.943"/>
+	<text transform="matrix(1 0 0 1 479.6934 288.2256)" fill="#070606" font-family="'Helvetica'" font-size="10.5242">X</text>
+	<rect x="410.189" y="278.178" fill="#FEA71D" width="12.941" height="12.943"/>
+	
+		<rect x="410.189" y="278.178" fill="none" stroke="#070606" stroke-width="1.754" stroke-linecap="round" stroke-linejoin="round" width="12.941" height="12.943"/>
+	<text transform="matrix(1 0 0 1 413.6113 288.2256)" fill="#070606" font-family="'Helvetica'" font-size="10.5242">1</text>
+	<rect x="424.031" y="278.178" fill="#FFFFFF" width="51.596" height="7.455"/>
+	
+		<line fill="none" stroke="#070606" stroke-width="1.754" stroke-miterlimit="10" x1="410.611" y1="277.254" x2="409.607" y2="275.818"/>
+	
+		<line fill="none" stroke="#070606" stroke-width="1.754" stroke-miterlimit="10" stroke-dasharray="3.4748,3.4748" x1="407.619" y1="272.967" x2="321.06" y2="149.051"/>
+	
+		<line fill="none" stroke="#070606" stroke-width="1.754" stroke-miterlimit="10" x1="320.065" y1="147.627" x2="319.061" y2="146.189"/>
+	
+		<line fill="none" stroke="#070606" stroke-width="1.754" stroke-miterlimit="10" x1="489.543" y1="277.254" x2="491.129" y2="276.509"/>
+	
+		<line fill="none" stroke="#070606" stroke-width="1.754" stroke-miterlimit="10" stroke-dasharray="3.4384,3.4384" x1="494.24" y1="275.042" x2="604.66" y2="223.012"/>
+	
+		<line fill="none" stroke="#070606" stroke-width="1.754" stroke-miterlimit="10" x1="606.215" y1="222.278" x2="607.801" y2="221.532"/>
+	<text transform="matrix(1 0 0 1 399.9243 230.2373)" fill="#070606" font-family="'Helvetica'" font-size="12.2782">Overlap assembly</text>
+	<text transform="matrix(1 0 0 1 28.2456 88.106)"><tspan x="0" y="0" fill="#070606" font-family="'Helvetica'" font-size="11.4012">Synthetic DN</tspan><tspan x="66.531" y="0" fill="#070606" font-family="'Helvetica'" font-size="11.4012">A</tspan><tspan x="73.52" y="0" fill="#070606" font-family="'Helvetica'" font-size="11.4012"> / PCR amplicon / L0 parts</tspan></text>
+	<polyline fill="#C3E2D1" points="383.488,15.486 395.101,15.486 404.703,10.515 395.101,5.542 383.488,5.542 383.488,15.486 	"/>
+	<polygon fill="none" stroke="#070606" stroke-width="1.754" stroke-linecap="square" points="383.488,15.487 395.101,15.487 
+		404.703,10.516 395.101,5.543 383.488,5.543 	"/>
+	<text transform="matrix(1 0 0 1 409.8477 14.3145)" fill="#151011" font-family="'Helvetica'" font-size="10.5242">lacZ</text>
+	<text transform="matrix(1 0 0 1 429.7285 14.3706)" fill="#151011" font-family="'Symbol'" font-size="10.5242">α</text>
+	<text transform="matrix(1 0 0 1 117.4863 123.6562)"><tspan x="0" y="0" fill="#151011" font-family="'Helvetica'" font-size="14.0323">L1</tspan><tspan x="15.608" y="0" fill="#151011" font-family="'Helvetica'" font-size="14.0323"> </tspan><tspan x="19.268" y="0" fill="#151011" font-family="'Helvetica'" font-size="14.0323">TUs</tspan></text>
+	<path fill="#FFFFFF" d="M69.481,55.262c0,9.962-8.077,18.041-18.039,18.041c-9.96,0-18.038-8.078-18.038-18.041
+		c0-9.959,8.078-18.037,18.038-18.037C61.404,37.225,69.481,45.302,69.481,55.262"/>
+	<path fill="none" stroke="#070606" stroke-width="1.754" stroke-miterlimit="10" d="M69.481,55.262
+		c0,9.962-8.077,18.041-18.039,18.041c-9.96,0-18.038-8.078-18.038-18.041c0-9.959,8.078-18.037,18.038-18.037
+		C61.404,37.225,69.481,45.302,69.481,55.262z"/>
+	<polyline fill="none" stroke="#070606" stroke-width="1.754" stroke-linecap="round" stroke-linejoin="round" points="
+		65.787,13.93 71.426,18.906 65.787,23.773 	"/>
+	<polyline fill="none" stroke="#070606" stroke-width="1.754" stroke-linecap="round" stroke-linejoin="round" points="
+		51.514,36.823 51.514,18.906 70.761,18.906 	"/>
+	<path fill="#FFFFFF" d="M121.33,55.262c0,9.962-8.073,18.041-18.037,18.041c-9.963,0-18.036-8.078-18.036-18.041
+		c0-9.959,8.073-18.037,18.036-18.037C113.256,37.225,121.33,45.302,121.33,55.262"/>
+	<path fill="none" stroke="#070606" stroke-width="1.754" stroke-miterlimit="10" d="M121.33,55.262
+		c0,9.962-8.073,18.041-18.037,18.041c-9.963,0-18.036-8.078-18.036-18.041c0-9.959,8.073-18.037,18.036-18.037
+		C113.256,37.225,121.33,45.302,121.33,55.262z"/>
+	<path fill="none" stroke="#070606" stroke-width="1.754" stroke-linecap="round" stroke-linejoin="round" d="M98.516,37.372h10.138
+		v-1.948c0-3.898-2.338-5.847-5.068-5.847c-2.729,0-5.069,1.949-5.069,5.847V37.372z"/>
+	<path fill="#FFFFFF" d="M171.139,55.262c0,9.962-8.075,18.041-18.038,18.041c-9.962,0-18.037-8.078-18.037-18.041
+		c0-9.959,8.075-18.037,18.037-18.037C163.064,37.225,171.139,45.302,171.139,55.262"/>
+	<path fill="none" stroke="#070606" stroke-width="1.754" stroke-miterlimit="10" d="M171.139,55.262
+		c0,9.962-8.075,18.041-18.038,18.041c-9.962,0-18.037-8.078-18.037-18.041c0-9.959,8.075-18.037,18.037-18.037
+		C163.064,37.225,171.139,45.302,171.139,55.262z"/>
+	<polyline fill="#FFFFFF" points="143.134,42.845 156.023,42.845 166.764,37.874 156.023,32.901 143.134,32.901 143.134,42.845 	"/>
+	<polygon fill="none" stroke="#070606" stroke-width="1.754" stroke-linecap="round" stroke-linejoin="round" points="
+		143.134,42.845 156.023,42.845 166.764,37.874 156.023,32.901 143.134,32.901 	"/>
+	<path fill="#FFFFFF" d="M225.049,55.262c0,9.962-8.076,18.041-18.037,18.041c-9.962,0-18.038-8.078-18.038-18.041
+		c0-9.959,8.076-18.035,18.038-18.035C216.973,37.227,225.049,45.302,225.049,55.262"/>
+	<path fill="none" stroke="#070606" stroke-width="1.754" stroke-miterlimit="10" d="M225.049,55.262
+		c0,9.962-8.076,18.041-18.037,18.041c-9.962,0-18.038-8.078-18.038-18.041c0-9.959,8.076-18.035,18.038-18.035
+		C216.973,37.227,225.049,45.302,225.049,55.262z"/>
+	
+		<line fill="none" stroke="#070606" stroke-width="1.754" stroke-linecap="round" stroke-linejoin="round" x1="206.701" y1="36.585" x2="206.701" y2="19.863"/>
+	
+		<line fill="none" stroke="#070606" stroke-width="1.754" stroke-linecap="round" stroke-linejoin="round" x1="196.245" y1="19.166" x2="217.155" y2="19.166"/>
+	<polyline fill="#EF333A" points="29.883,48.437 34.374,52.959 39.208,43.669 29.883,48.437 	"/>
+	<path fill="#070606" d="M29.263,49.058c1.497,1.506,2.993,3.013,4.489,4.522c0.385,0.386,1.116,0.327,1.379-0.177
+		c1.612-3.098,3.223-6.194,4.833-9.291c0.413-0.795-0.409-1.604-1.2-1.2c-3.108,1.589-6.216,3.178-9.324,4.767
+		c-1.007,0.516-0.12,2.03,0.886,1.516c3.107-1.589,6.216-3.178,9.324-4.768c-0.399-0.399-0.8-0.799-1.199-1.199
+		c-1.613,3.096-3.224,6.194-4.835,9.29c0.46-0.06,0.919-0.12,1.377-0.178c-1.496-1.508-2.992-3.016-4.489-4.521
+		C29.706,47.012,28.465,48.252,29.263,49.058"/>
+	<path fill="#F4323B" d="M40.864,41.963c0.928,0.929,0.928,2.434,0,3.364c-0.93,0.928-2.434,0.928-3.362,0
+		c-0.929-0.93-0.931-2.435,0-3.364C38.429,41.035,39.935,41.035,40.864,41.963"/>
+	<circle fill="none" stroke="#070606" stroke-width="1.754" stroke-miterlimit="10" cx="39.183" cy="43.645" r="2.378"/>
+	<polyline fill="#EF333A" points="73.066,48.453 68.552,52.954 63.765,43.642 73.066,48.453 	"/>
+	<path fill="#070606" d="M72.445,47.831c-1.503,1.502-3.008,3.002-4.512,4.503c0.46,0.059,0.918,0.117,1.377,0.177
+		c-1.596-3.104-3.189-6.209-4.786-9.314c-0.4,0.4-0.8,0.8-1.2,1.2c3.1,1.605,6.199,3.208,9.299,4.812
+		c1.003,0.519,1.89-0.993,0.885-1.514c-3.1-1.603-6.198-3.208-9.297-4.812c-0.795-0.41-1.607,0.407-1.2,1.2
+		c1.594,3.104,3.19,6.208,4.786,9.312c0.262,0.509,0.993,0.562,1.377,0.179c1.504-1.501,3.009-3.001,4.512-4.503
+		C74.487,48.272,73.247,47.032,72.445,47.831"/>
+	<path fill="#FC7243" d="M65.435,45.33c-0.927,0.93-2.43,0.93-3.36,0c-0.928-0.927-0.928-2.433,0-3.361
+		c0.931-0.929,2.436-0.929,3.363,0C66.368,42.9,66.366,44.403,65.435,45.33"/>
+	<circle fill="none" stroke="#070606" stroke-width="1.754" stroke-miterlimit="10" cx="63.755" cy="43.65" r="2.376"/>
+	<polyline fill="#EF333A" points="81.043,48.437 85.534,52.96 90.368,43.669 81.043,48.437 	"/>
+	<path fill="#070606" d="M80.424,49.058c1.496,1.506,2.992,3.016,4.49,4.522c0.385,0.387,1.115,0.327,1.377-0.177
+		c1.611-3.098,3.224-6.194,4.834-9.291c0.414-0.795-0.408-1.604-1.2-1.2c-3.108,1.589-6.216,3.18-9.324,4.769
+		c-1.006,0.514-0.119,2.028,0.886,1.514c3.107-1.589,6.216-3.178,9.324-4.768c-0.399-0.399-0.8-0.799-1.199-1.199
+		c-1.611,3.096-3.225,6.194-4.835,9.29c0.461-0.058,0.918-0.117,1.378-0.178c-1.498-1.506-2.995-3.016-4.491-4.521
+		C80.866,47.014,79.625,48.254,80.424,49.058"/>
+	<path fill="#FC7243" d="M92.025,41.963c0.927,0.927,0.927,2.434-0.001,3.362c-0.929,0.929-2.436,0.928-3.361,0
+		c-0.93-0.928-0.93-2.433,0-3.362C89.59,41.035,91.095,41.035,92.025,41.963"/>
+	<circle fill="none" stroke="#070606" stroke-width="1.754" stroke-miterlimit="10" cx="90.344" cy="43.644" r="2.378"/>
+	<polyline fill="#EF333A" points="124.663,48.453 120.149,52.954 115.364,43.64 124.663,48.453 	"/>
+	<path fill="#070606" d="M124.042,47.831c-1.503,1.502-3.008,3.002-4.512,4.501c0.46,0.059,0.918,0.119,1.377,0.177
+		c-1.595-3.104-3.188-6.208-4.785-9.313c-0.399,0.4-0.8,0.8-1.199,1.199c3.098,1.605,6.199,3.21,9.297,4.813
+		c1.003,0.519,1.89-0.993,0.885-1.514c-3.1-1.605-6.198-3.21-9.296-4.813c-0.795-0.41-1.606,0.407-1.199,1.2
+		c1.594,3.104,3.188,6.209,4.784,9.314c0.26,0.509,0.993,0.562,1.377,0.178c1.503-1.5,3.009-3,4.512-4.501
+		C126.083,48.274,124.843,47.034,124.042,47.831"/>
+	<path fill="#FDB936" d="M117.032,45.33c-0.925,0.928-2.43,0.93-3.36,0c-0.928-0.927-0.926-2.435,0-3.361
+		c0.931-0.929,2.436-0.927,3.363,0C117.964,42.897,117.962,44.403,117.032,45.33"/>
+	<path fill="none" stroke="#070606" stroke-width="1.754" stroke-miterlimit="10" d="M117.032,45.33c-0.925,0.928-2.43,0.93-3.36,0
+		c-0.928-0.927-0.926-2.435,0-3.361c0.931-0.929,2.436-0.927,3.363,0C117.964,42.897,117.962,44.403,117.032,45.33z"/>
+	<polyline fill="#EF333A" points="130.594,48.437 135.086,52.96 139.918,43.669 130.594,48.437 	"/>
+	<path fill="#070606" d="M129.973,49.058c1.498,1.506,2.996,3.016,4.492,4.522c0.385,0.386,1.116,0.327,1.379-0.177
+		c1.61-3.098,3.223-6.194,4.831-9.291c0.413-0.795-0.409-1.604-1.2-1.2c-3.108,1.589-6.216,3.178-9.324,4.767
+		c-1.006,0.516-0.119,2.03,0.886,1.516c3.108-1.589,6.216-3.178,9.324-4.77c-0.399-0.399-0.799-0.8-1.199-1.2
+		c-1.61,3.098-3.224,6.196-4.833,9.292c0.46-0.058,0.919-0.117,1.377-0.178c-1.496-1.506-2.994-3.016-4.492-4.521
+		C130.417,47.012,129.177,48.252,129.973,49.058"/>
+	<path fill="#FDB936" d="M141.577,41.963c0.926,0.927,0.928,2.434,0,3.362c-0.93,0.929-2.435,0.929-3.362,0
+		c-0.93-0.928-0.93-2.433,0-3.362C139.142,41.035,140.647,41.035,141.577,41.963"/>
+	<circle fill="none" stroke="#070606" stroke-width="1.754" stroke-miterlimit="10" cx="139.896" cy="43.644" r="2.378"/>
+	<polyline fill="#EF333A" points="175.091,48.45 170.578,52.954 165.792,43.638 175.091,48.45 	"/>
+	<path fill="#070606" d="M174.471,47.831c-1.505,1.5-3.009,3.002-4.513,4.503c0.46,0.059,0.918,0.117,1.377,0.177
+		c-1.595-3.106-3.188-6.211-4.785-9.316c-0.399,0.4-0.8,0.8-1.199,1.199c3.099,1.605,6.198,3.208,9.298,4.813
+		c1.001,0.519,1.889-0.995,0.886-1.514c-3.102-1.606-6.201-3.21-9.298-4.815c-0.795-0.41-1.606,0.408-1.199,1.2
+		c1.593,3.104,3.188,6.211,4.784,9.315c0.26,0.509,0.993,0.562,1.377,0.179c1.503-1.501,3.009-3.004,4.514-4.503
+		C176.513,48.272,175.274,47.032,174.471,47.831"/>
+	<path fill="#FBE464" d="M167.461,45.33c-0.927,0.928-2.432,0.93-3.361,0c-0.928-0.927-0.928-2.433,0-3.361
+		c0.928-0.927,2.435-0.929,3.362,0C168.393,42.897,168.391,44.403,167.461,45.33"/>
+	<circle fill="none" stroke="#070606" stroke-width="1.754" stroke-miterlimit="10" cx="165.781" cy="43.65" r="2.377"/>
+	<polyline fill="#EF333A" points="184.238,48.437 188.728,52.96 193.564,43.671 184.238,48.437 	"/>
+	<path fill="#070606" d="M183.618,49.058c1.498,1.506,2.994,3.016,4.491,4.522c0.385,0.387,1.116,0.327,1.378-0.177
+		c1.611-3.096,3.224-6.191,4.836-9.287c0.413-0.797-0.409-1.605-1.2-1.2c-3.11,1.587-6.218,3.177-9.328,4.766
+		c-1.008,0.514-0.119,2.028,0.886,1.514c3.109-1.589,6.218-3.176,9.327-4.766c-0.398-0.4-0.799-0.798-1.198-1.199
+		c-1.612,3.095-3.226,6.191-4.837,9.288c0.46-0.058,0.917-0.117,1.378-0.178c-1.498-1.506-2.995-3.016-4.493-4.521
+		C184.061,47.014,182.821,48.254,183.618,49.058"/>
+	<path fill="#FBE464" d="M195.22,41.963c0.928,0.929,0.928,2.434,0,3.364c-0.93,0.928-2.435,0.928-3.362,0
+		c-0.93-0.93-0.93-2.435,0-3.364C192.786,41.035,194.291,41.035,195.22,41.963"/>
+	<circle fill="none" stroke="#070606" stroke-width="1.754" stroke-miterlimit="10" cx="193.539" cy="43.645" r="2.378"/>
+	<polyline fill="#EF333A" points="229.173,48.45 224.66,52.956 219.875,43.642 229.173,48.45 	"/>
+	<path fill="#070606" d="M228.554,47.831c-1.505,1.502-3.01,3.002-4.516,4.503c0.46,0.059,0.92,0.119,1.378,0.177
+		c-1.596-3.104-3.189-6.209-4.785-9.314c-0.4,0.4-0.801,0.8-1.2,1.2c3.1,1.605,6.201,3.208,9.3,4.812
+		c1.002,0.519,1.889-0.995,0.886-1.514c-3.102-1.605-6.2-3.208-9.301-4.812c-0.792-0.41-1.606,0.407-1.198,1.2
+		c1.594,3.104,3.19,6.209,4.785,9.314c0.261,0.509,0.994,0.56,1.376,0.177c1.505-1.501,3.011-3.001,4.516-4.503
+		C230.596,48.272,229.356,47.032,228.554,47.831"/>
+	<path fill="#F1F969" d="M221.544,45.33c-0.928,0.93-2.432,0.93-3.362,0c-0.928-0.927-0.928-2.433,0-3.361
+		c0.931-0.931,2.435-0.929,3.362,0C222.474,42.897,222.474,44.401,221.544,45.33"/>
+	<circle fill="none" stroke="#070606" stroke-width="1.754" stroke-miterlimit="10" cx="219.863" cy="43.65" r="2.377"/>
+	<text transform="matrix(1 0 0 1 324.5298 14.3149)"><tspan x="0" y="0" fill="#070606" font-family="'Helvetica-Oblique'" font-size="10.5242">BsaI</tspan><tspan x="21.059" y="0" fill="#070606" font-family="'Helvetica'" font-size="10.5242"> sites</tspan></text>
+	<polyline fill="#EF333A" points="298.56,6.442 298.591,14.587 285.824,10.561 298.56,6.442 	"/>
+	<path fill="#070606" d="M297.683,6.447c0.011,2.715,0.02,5.43,0.031,8.146c0.37-0.281,0.739-0.563,1.109-0.845
+		c-4.255-1.342-8.512-2.686-12.767-4.028c0,0.564,0,1.126,0,1.692c4.244-1.374,8.492-2.747,12.736-4.121
+		c1.072-0.345,0.613-2.04-0.466-1.689c-4.245,1.372-8.492,2.745-12.736,4.118c-0.831,0.267-0.841,1.426,0,1.692
+		c4.254,1.341,8.511,2.685,12.769,4.027c0.545,0.174,1.11-0.29,1.108-0.845c-0.012-2.716-0.021-5.431-0.031-8.146
+		C299.432,5.316,297.678,5.316,297.683,6.447"/>
+	<polyline fill="#EF333A" points="305.775,6.441 305.786,14.588 318.532,10.496 305.775,6.441 	"/>
+	<path fill="#070606" d="M304.898,6.444c0.004,2.715,0.007,5.432,0.011,8.147c0,0.552,0.562,1.022,1.109,0.845
+		c4.248-1.364,8.499-2.728,12.747-4.092c0.834-0.266,0.837-1.424,0-1.691c-4.252-1.352-8.506-2.703-12.757-4.055
+		c-1.081-0.345-1.54,1.351-0.466,1.69c4.251,1.352,8.505,2.703,12.757,4.056c0-0.562,0-1.128,0-1.691
+		c-4.249,1.363-8.498,2.727-12.747,4.093c0.37,0.282,0.74,0.564,1.11,0.845c-0.004-2.716-0.007-5.432-0.011-8.147
+		C306.65,5.313,304.896,5.313,304.898,6.444"/>
+	<polyline fill="#EF333A" points="303.042,50.903 303.07,59.051 290.305,55.021 303.042,50.903 	"/>
+	<path fill="#070606" d="M302.165,50.903c0.01,2.717,0.021,5.43,0.029,8.147c0.37-0.283,0.74-0.565,1.109-0.846
+		c-4.255-1.343-8.51-2.685-12.766-4.028c0,0.563,0,1.127,0,1.69c4.246-1.372,8.491-2.745,12.738-4.118
+		c1.071-0.346,0.611-2.041-0.467-1.692c-4.246,1.372-8.491,2.745-12.738,4.119c-0.831,0.268-0.84,1.426,0,1.69
+		c4.256,1.342,8.511,2.686,12.769,4.028c0.546,0.173,1.11-0.29,1.108-0.844c-0.009-2.717-0.02-5.431-0.028-8.147
+		C303.914,49.773,302.16,49.772,302.165,50.903"/>
+	<path fill="#F4323B" d="M287.267,54.978c0,1.679,1.359,3.038,3.038,3.038s3.039-1.359,3.039-3.038s-1.36-3.04-3.039-3.04
+		S287.267,53.299,287.267,54.978"/>
+	<circle fill="none" stroke="#070606" stroke-width="1.754" stroke-miterlimit="10" cx="290.306" cy="54.978" r="3.039"/>
+	<polyline fill="#EF333A" points="330.601,51.027 330.611,59.174 343.359,55.081 330.601,51.027 	"/>
+	<path fill="#070606" d="M329.724,51.027c0.003,2.715,0.007,5.431,0.011,8.146c0,0.552,0.562,1.022,1.109,0.845
+		c4.25-1.363,8.498-2.728,12.748-4.092c0.834-0.267,0.838-1.426,0-1.691c-4.254-1.351-8.505-2.703-12.758-4.054
+		c-1.082-0.346-1.54,1.349-0.466,1.69c4.252,1.351,8.504,2.702,12.758,4.054c0-0.563,0-1.128,0-1.691
+		c-4.25,1.364-8.497,2.727-12.748,4.092c0.37,0.281,0.739,0.562,1.11,0.846c-0.004-2.715-0.007-5.432-0.011-8.146
+		C331.477,49.895,329.722,49.895,329.724,51.027"/>
+	<path fill="#F1F969" d="M340.317,55.1c0,1.679,1.359,3.039,3.039,3.039c1.678,0,3.039-1.36,3.039-3.039
+		c0-1.678-1.361-3.04-3.039-3.04C341.676,52.06,340.317,53.421,340.317,55.1"/>
+	<circle fill="none" stroke="#070606" stroke-width="1.754" stroke-miterlimit="10" cx="343.356" cy="55.1" r="3.039"/>
+	
+		<rect x="511.348" y="4.043" fill="none" stroke="#070606" stroke-width="1.754" stroke-linecap="round" stroke-linejoin="round" width="12.943" height="12.943"/>
+	<text transform="matrix(1 0 0 1 528.5762 14.3149)" fill="#151011" font-family="'Helvetica'" font-size="10.5242">UNS</text>
+	<polyline fill="#C5090A" points="444.908,15.486 456.521,15.486 466.123,10.515 456.521,5.542 444.908,5.542 444.908,15.486 	"/>
+	<polygon fill="none" stroke="#070606" stroke-width="1.754" stroke-linecap="square" points="444.908,15.487 456.521,15.487 
+		466.123,10.516 456.521,5.543 444.908,5.543 	"/>
+	<text transform="matrix(1 0 0 1 469.5156 14.3145)" fill="#151011" font-family="'Helvetica'" font-size="10.5242">mRFP1</text>
+</g>
+</svg>
